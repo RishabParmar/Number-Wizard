@@ -133,7 +133,7 @@ GameObject:
   - component: {fileID: 195324202}
   - component: {fileID: 195324201}
   m_Layer: 5
-  m_Name: Game Title
+  m_Name: Closing title
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -179,11 +179,11 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 1495f6f1c1d7eca4297dc9cf10f5e0b8, type: 3}
-    m_FontSize: 4
+    m_FontSize: 80
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 4
-    m_MaxSize: 40
+    m_MaxSize: 80
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
